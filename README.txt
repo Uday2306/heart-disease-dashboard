@@ -35,5 +35,8 @@
 
 ---
 
+💡 Inspired by a YouTube learning series, I challenged myself to recreate and customize a heart disease survival dashboard using Power BI.
+---
+
 📬 Let's Connect!
 Happy to collaborate, learn, and share ideas on healthcare analytics and dashboard design.  
