@@ -43,7 +43,9 @@ providing a clear and actionable view for healthcare insights.
 - `README.md` → Project documentation  
 
 ---
-
+## Dashboard Preview
+![dashboard](https://github.com/Uday2306/heart-disease-dashboard/blob/main/dashboard.png)
+---
 ## 💡 Project Inspiration
 
 This dashboard was inspired by a **YouTube learning series**,  
@@ -56,3 +58,4 @@ with my own style and insights.
 
 Open for collaborations on **healthcare analytics** and **dashboard design**.  
 Reach out to discuss **Power BI projects** and **data storytelling**.
+
