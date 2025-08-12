@@ -1,42 +1,58 @@
- Heart Disease Analysis Dashboard – Power BI
+# 🫀 Heart Disease Analysis Dashboard – Power BI
 
-🫀 This project analyzes heart disease data using Power BI. It visualizes survival rates across age groups, highlights key risk factors like smoking and high blood pressure, and presents insights in an intuitive dashboard.
-
----
-
-📌 Key Metrics:
-- Survival Rate: 67.89%
-- Average Age of Survivors: 58.76 years
-- Total Survivors: 203
-- Total Deaths: 96
+This project presents an interactive **Power BI dashboard** analyzing heart disease data.  
+It highlights **survival rates across age groups**, **key health risk factors**, and **clinical metrics**,  
+providing a clear and actionable view for healthcare insights.
 
 ---
 
-📊 Dashboard Insights:
-- Survival rate is highest in the 30–40 age group (100%)
-- Risk increases sharply for patients aged 71+ (20.38% survival)
-- Ejection fraction and serum creatinine vary significantly with age
-- Risk factors like **smoking**, **diabetes**, and **anaemia** have visible trends
+## 📌 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Survival Rate** | 67.89% |
+| **Average Age of Survivors** | 58.76 years |
+| **Total Survivors** | 203 |
+| **Total Deaths** | 96 |
 
 ---
 
-🛠️ Tools Used:
-- Power BI
-- DAX
-- Data Modeling
-- Chart Types: Bar, Line, Ribbon Chart, Cards
+## 📊 Dashboard Insights
+
+- **Highest Survival Rate:** Patients aged **30–40** (100%)  
+- **Sharp Risk Increase:** Ages **71+** (only 20.38% survival)  
+- **Clinical Trends:**  
+  - Ejection fraction & serum creatinine vary significantly by age  
+  - Risk factors such as **smoking**, **diabetes**, and **anaemia** show visible survival trends  
 
 ---
 
-📂 File Info:
-- `HeartDiseaseDashboard.pbix` – Full Power BI file
-- `dashboard.png` – Snapshot of the dashboard
-- `README.md` – Project summary
+## 🛠 Tools & Techniques
+
+- **Power BI** – Data visualization & dashboard creation  
+- **DAX** – Calculated measures & KPIs  
+- **Data Modeling** – Relationship building for analysis  
+- **Charts Used:** Bar Chart, Line Chart, Ribbon Chart, KPI Cards  
 
 ---
 
-💡 Inspired by a YouTube learning series, I challenged myself to recreate and customize a heart disease survival dashboard using Power BI.
+## 📂 Project Files
+
+- `HeartDiseaseDashboard.pbix` → Complete Power BI dashboard  
+- `dashboard.png` → Snapshot preview of the dashboard  
+- `README.md` → Project documentation  
+
 ---
 
-📬 Let's Connect!
-Happy to collaborate, learn, and share ideas on healthcare analytics and dashboard design.  
+## 💡 Project Inspiration
+
+This dashboard was inspired by a **YouTube learning series**,  
+where I challenged myself to **recreate and customize** the heart disease survival dashboard  
+with my own style and insights.
+
+---
+
+## 📬 Let’s Connect
+
+Open for collaborations on **healthcare analytics** and **dashboard design**.  
+Reach out to discuss **Power BI projects** and **data storytelling**.
